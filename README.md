@@ -1,5 +1,5 @@
 # APSC-NMF_and_v4r
-MATLAB toolkit for adaptive pollution source-constrained nonnegative matrix factorization (APSC-NMF) source apportionment of heavy metals, with spatial interpolation (OK, IDW) and uncertainty analysis. Ideal for environmental science research. Includes constrained optimization and cross-validation.
+MATLAB toolkit for adaptive pollution source-constrained nonnegative matrix factorization (APSC-NMF) source apportionment of heavy metals, with spatial interpolation (OK, IDW, v4r) and uncertainty analysis. Ideal for environmental science research. Includes constrained optimization and cross-validation.
 The code is derived from methods used in a peer-reviewed paper and has been refactored for clarity, modularity, and reproducibility.
 
 ## Table of Contents
