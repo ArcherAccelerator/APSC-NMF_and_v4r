@@ -51,7 +51,7 @@ The code is derived from methods used in a peer-reviewed paper and has been refa
 
 ## Requirements
 ### Software
-- **MATLAB**: Version R2020b or later (tested on R2024a).
+- **MATLAB**: Version R2020a or later (tested on R2020a).
 - **Toolboxes**:
   - Statistics and Machine Learning Toolbox (for `nnmf` and optimization functions like `fmincon`).
   - Mapping Toolbox (for shapefile reading via `shaperead` and `inpolygon`).
